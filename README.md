@@ -1,2 +1,2 @@
 # Gomoku
-this is gane of Gomoku
+this is gane of Gomoku with C++
